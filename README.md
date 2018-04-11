@@ -27,3 +27,4 @@ Os gists não receberão mais atualizações a partir da criação deste reposit
  - Checar se devemos rodar as_fix_permissions com frequencia (reboot/cron?)
  - Comando para adicionar renovação de licença no cron (precisa CNPJ / senha, deve checar permissões)
  - Updater online via github (para autosystem-tools somente)
+ - Adicionar `as_backup` incrementado nas ferramentas (não publicado em gists ainda)
