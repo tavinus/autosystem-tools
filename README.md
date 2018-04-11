@@ -19,12 +19,11 @@ Os gists não receberão mais atualizações a partir da criação deste reposit
  - [Gera Links e Lançadores para AutoSystem em chroot (jessie_i386)](https://gist.github.com/tavinus/5b2135f4363198c7356139a2399fc1ba)
  - [Reseta permissões de um Autosystem Instalado (linux) ](https://gist.github.com/tavinus/5a57c54d7303ec0a8cff9dcfc4b1bad4)
 ## To Do
-(mover para um Wiki)
- - Desativar repo fatux ao final da instalação por padrão
+ - Desativar repo fatux ao final da instalação por padrão, com parametro para manter
  - Comando para ativar / desativar repo fatux manualmente
  - Comando para ativar / desativar instalação do postgres (junto com autosystem)
- - Checar instalação AS SEM o postgresql server para clientes (quias pacotes manter/retirar?)
+ - Checar instalação AS sem o postgresql server para clientes (quais pacotes manter/retirar?)
  - Rodar *as_fix_permissions* ao final da instalação (talvez tenha que criar pastas e dar touch em arquivos antes)
  - Checar se devemos rodar as_fix_permissions com frequencia (reboot/cron?)
- - Comando para adicionar renovação de licença no cron (precisa CNPJ / senha, deve checar permissoes)
- - Updater online via github
+ - Comando para adicionar renovação de licença no cron (precisa CNPJ / senha, deve checar permissões)
+ - Updater online via github (para autosystem-tools somente)
