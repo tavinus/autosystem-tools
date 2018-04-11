@@ -14,7 +14,7 @@ Em construção - vai receber os gists com tutoriais e mais outros guias.
 A maioria das ferramentas desse pacote foi criada em gists e depois migrada para este repositório.  
 Os gists não receberão mais atualizações a partir da criação deste repositório.  
 #### gists relacionados
- - [Instalar Linx Autosystem Debian, Mint, Ubuntu (via Repo Fatux](https://gist.github.com/tavinus/146bdce3695cae9cfec02b534c2ff30f)
+ - [Instalar Linx Autosystem Debian, Mint, Ubuntu (via Repo Fatux)](https://gist.github.com/tavinus/146bdce3695cae9cfec02b534c2ff30f)
  - [Rodar Autosystem em AMD64 e ARM ](https://gist.github.com/tavinus/559c6fef56a757e524c86deffdfb9dc0)
  - [Gera Links e Lançadores para AutoSystem em chroot (jessie_i386)](https://gist.github.com/tavinus/5b2135f4363198c7356139a2399fc1ba)
  - [Reseta permissões de um Autosystem Instalado (linux) ](https://gist.github.com/tavinus/5a57c54d7303ec0a8cff9dcfc4b1bad4)
